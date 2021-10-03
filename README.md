@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+---
 !--
 
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
 ---
 
@@ -28,7 +29,10 @@ Here are some ideas to get you started:
 
 ---
 
+
+---
 ![Hobby Devs's Git Stats](https://github-readme-stats.vercel.app/api?username=Hobby-Dev-0&include_all_commits=true&count_private=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hobby-Dev-0&layout=compact&theme=radical)](https://github.com/Hobby-Dev-0)
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hobby-Dev-0&show_icons=true&locale=en&langs_count=15&theme=tokyonight" alt="Hobby-Dev-0 " /></p>
+---
