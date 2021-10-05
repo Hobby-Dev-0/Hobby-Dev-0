@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Some Popular Languages I Use
+### Some Popular Languages I Use (Samples)
 <h3>
 
 ```python, java script
@@ -58,8 +58,8 @@ languages = "Python"
 k = "Bash"
 k2 = "HTML"
 k3 = "CSS"
-console.log(languages, k, k2, k3)
-console.log(languages)
+k4 = "Java Script"
+console.log(languages, k, k2, k3, k4)
 ​
 ```
 
