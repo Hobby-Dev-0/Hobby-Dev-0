@@ -29,6 +29,27 @@ Here are some ideas to get you started:
 
 ---
 
+### Some Popular Languages I Use
+<h3>
+
+```python
+​
+import json
+from dataclasses import asdict, dataclass
+@dataclass
+class Stack:
+    languages   : ("Python", "Bash", "HTML", "CSS")
+    misc        : tuple[str, ...] = ("Docker")
+    ongoing     : tuple[str, ...] = ("Python", "HTML", "CSS", "JAVA SCRIPT")
+    def serialize(self):
+        return json.dumps(asdict(self), indent=4)
+stack = Stack()
+print(stack.serialize())
+printf("Thank You Very Much. Stay Tuned With Us !!")
+console.log(languages)
+​
+```
+</h3>
 
 ---
 ![Hobby Devs's Git Stats](https://github-readme-stats.vercel.app/api?username=Hobby-Dev-0&include_all_commits=true&count_private=true&theme=tokyonight)
