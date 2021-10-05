@@ -50,6 +50,18 @@ console.log(languages)
 ​
 ```
 </h3>
+<h3>
+
+```js
+​
+languages = "Python" 
+k = "Bash"
+k2 = "HTML"
+k3 = "CSS"
+console.log(languages, k, k2, k3)
+console.log(languages)
+​
+```
 
 ---
 ![Hobby Devs's Git Stats](https://github-readme-stats.vercel.app/api?username=Hobby-Dev-0&include_all_commits=true&count_private=true&theme=tokyonight)
