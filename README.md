@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Some Popular Languages I Use
 <h3>
 
-```python
+```python, java script
 ​
 import json
 from dataclasses import asdict, dataclass
@@ -45,7 +45,7 @@ class Stack:
         return json.dumps(asdict(self), indent=4)
 stack = Stack()
 print(stack.serialize())
-printf("Thank You Very Much. Stay Tuned With Us !!")
+printf("Thank You Very Much. Stay Tuned With Me !!")
 console.log(languages)
 ​
 ```
