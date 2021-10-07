@@ -45,8 +45,7 @@ class Stack:
         return json.dumps(asdict(self), indent=4)
 stack = Stack()
 print(stack.serialize())
-printf("Thank You Very Much. Stay Tuned With Me !!")
-console.log(languages)
+printf(f"Thank You Very Much. Stay Tuned With Me !! My Languages {languages}")
 ​
 ```
 </h3>
