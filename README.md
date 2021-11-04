@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/Hobby-Dev-0/Hobby-Dev-0/issues/3) in [Hobby-Dev-0/Hobby-Dev-0](https://github.com/Hobby-Dev-0/Hobby-Dev-0)
-2. 🗣 Commented on [#3](https://github.com/TeamFussion/Dark_Fussion/issues/3) in [TeamFussion/Dark_Fussion](https://github.com/TeamFussion/Dark_Fussion)
-3. 🗣 Commented on [#3](https://github.com/TeamFussion/Dark_Fussion/issues/3) in [TeamFussion/Dark_Fussion](https://github.com/TeamFussion/Dark_Fussion)
-4. ❗️ Opened issue [#1](https://github.com/TheAndencento/Andencento/issues/1) in [TheAndencento/Andencento](https://github.com/TheAndencento/Andencento)
-5. ❗️ Opened issue [#3](https://github.com/TeamFussion/Dark_Fussion/issues/3) in [TeamFussion/Dark_Fussion](https://github.com/TeamFussion/Dark_Fussion)
+2. ❗️ Opened issue [#1](https://github.com/TheAndencento/Andencento/issues/1) in [TheAndencento/Andencento](https://github.com/TheAndencento/Andencento)
+3. 🗣 Commented on [#1](https://github.com/LEGEND-OS/LEGENDUSERBOT/issues/1) in [LEGEND-OS/LEGENDUSERBOT](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+4. 🗣 Commented on [#1](https://github.com/LEGEND-OS/LEGENDUSERBOT/issues/1) in [LEGEND-OS/LEGENDUSERBOT](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+5. 🗣 Commented on [#1](https://github.com/LEGEND-OS/LEGENDUSERBOT/issues/1) in [LEGEND-OS/LEGENDUSERBOT](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 <!--END_SECTION:activity-->
 
 ---
