@@ -1,5 +1,7 @@
 ### Hi there 👋
 ---
+<p align="left"> <a href="https://github.com/Hobby-Dev-0"><img src="https://github-profile-trophy.vercel.app/?username=Hobby-Dev-0&no-bg=true" alt="Hobby-Dev-0" /></a> </p>
+
 !--
 
 
